@@ -1,0 +1,11 @@
+.text_stroke:hover {
+  -webkit-text-stroke: 1px #4a8dc5;
+}
+.rotate_y_full {
+  transform: rotatey(180deg) translate(-100%, -100%);
+}
+@media (min-width: 1024px) {
+  .bg_full {
+    background-size: 100% 100%;
+  }
+}
